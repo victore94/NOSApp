@@ -18,7 +18,7 @@ import NeedsList from "./components/needsList";
 const App = () => {
   return (
     <div>
-      {/* <Navbar /> */}
+      <Navbar />
       {/* <LoginPage /> */}
       <Routes>
         <Route path="/create" element={<Create />} />
