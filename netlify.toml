@@ -1,8 +1,6 @@
 [build]
 
-  # directory to change to before build
 base = "client/"
-  # Contains HTML file that's deploy ready
 publish = "public/"
 
 
